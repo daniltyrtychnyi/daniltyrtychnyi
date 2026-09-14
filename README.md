@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Привет, я Данил!
 
-<!--
-**daniltyrtychnyi/daniltyrtychnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Frontend Web Developer
+* 🎓 Студент направления «Информационные системы и программирование»
+* 🌱 Изучаю React и TypeScript
+* 🎨 Создаю адаптивные и интерактивные веб-интерфейсы
 
-Here are some ideas to get you started:
+## 🛠️ Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Sass (SCSS)**
+- **Minista**
+- **Vite**
+- **ESLint / Prettier / Stylelint**
+- **BEM**
+- **Accessibility**
+- **Git / GitHub**
+- **Figma**
+
+## 🚀 Проекты
+
+### 📸 Damien Braun
+Многостраничный сайт-портфолио фотографа.
+
+[🔗 Посмотреть проект](https://daniltyrtychnyi.github.io/damien-portfolio/) · [📁 Исходный код](https://github.com/daniltyrtychnyi/damien-portfolio)
+
+### ⚖️ Legal Company
+Лендинг юридической компании.
+
+[🔗 Посмотреть проект](https://daniltyrtychnyi.github.io/pravozachitnik/) · [📁 Исходный код](https://github.com/daniltyrtychnyi/pravozachitnik)
+
+### 💼 Digital Agency
+Многостраничный сайт цифрового агентства.
+
+[🔗 Посмотреть проект](https://daniltyrtychnyi.github.io/square-up/) · [📁 Исходный код](https://github.com/daniltyrtychnyi/square-up)
+
+### 🌦️ Forecast Weather App
+Приложение для просмотра прогноза погоды.
+
+[🔗 Посмотреть проект](https://daniltyrtychnyi.github.io/forecast-weather-app/) · [📁 Исходный код](https://github.com/daniltyrtychnyi/forecast-weather-app)
+
+### ✅ To Do List
+Приложение для управления списком задач.
+
+[🔗 Посмотреть проект](https://daniltyrtychnyi.github.io/todo-app/) · [📁 Исходный код](https://github.com/daniltyrtychnyi/todo-app)
