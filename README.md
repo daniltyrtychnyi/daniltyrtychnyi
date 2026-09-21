@@ -20,7 +20,7 @@
 ### 📸 Damien Braun
 Многостраничный сайт-портфолио фотографа.
 
-<a href="https://daniltyrtychnyi.github.io/damien-portfolio/" target="_blank">🔗 Посмотреть проект</a> · <a href="https://github.com/daniltyrtychnyi/damien-portfolio" target="_blank">📁 Исходный код</a>
+[🔗 Посмотреть проект](https://daniltyrtychnyi.github.io/damien-portfolio/) · [📁 Исходный код](https://github.com/daniltyrtychnyi/damien-portfolio)
 
 ### ⚖️ Legal Company
 Лендинг юридической компании.
