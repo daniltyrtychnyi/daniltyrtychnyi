@@ -1,21 +1,17 @@
 # 👋 Привет, я Данил!
 
-* 💻 Frontend Web Developer
+* 💻 Frontend-разработчик
 * 🎓 Студент направления «Информационные системы и программирование»
 * 🌱 Изучаю React и TypeScript
-* 🎨 Создаю адаптивные и интерактивные веб-интерфейсы
+* 🎨 Создаю современные и удобные интерфейсы
 
 ## 🛠️ Стек
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **Sass (SCSS)**
-- **Minista**
-- **Vite**
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**
+- **Sass / SCSS**
+- **Minista**, **Vite**
 - **ESLint / Prettier / Stylelint**
-- **BEM**
-- **Accessibility**
+- **BEM**, **Accessibility**
 - **Git / GitHub**
 - **Figma**
 
